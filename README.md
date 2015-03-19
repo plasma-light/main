@@ -2,7 +2,7 @@
 
 ## Intro
 
-The idea of this "megatheme" is to provide an equivalent of the Ozon OS Atom Shell extension set in Plasma. That is, a top and bottom panel with an app launcher and a dock along with a system tray and clock. As they're Gnome Shell extensions the closest thing conceptually in Plasma would be plasmoids and manual configuration. Unlike shell extensions Plasma needs the user to manually place the panels and what widgets he/she wants to get X layout. Tthe megatheme should be doing this by default.
+The idea of this "megatheme" is to provide an equivalent of the Ozon OS Atom Shell extension set in Plasma. That is, a top and bottom panel with an app launcher and a dock along with a system tray and clock. As they're Gnome Shell extensions the closest thing conceptually in Plasma would be plasmoids and manual configuration. Unlike shell extensions Plasma needs the user to manually place the panels and what widgets he/she wants to get the desired layout. The megatheme should be doing this by default.
 
 ## Goals
 
