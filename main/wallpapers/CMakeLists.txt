@@ -1,0 +1,1 @@
+install(DIRECTORY plasma-light DESTINATION ${WALLPAPER_INSTALL_DIR})
