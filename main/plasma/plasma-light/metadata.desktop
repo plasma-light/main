@@ -1,0 +1,21 @@
+[Desktop Entry]
+Name=Plasma Light
+Name[es]=Plasma Light
+comment=Atom Shell-like set for Plasma 5
+Comment[es]=Set a la Atom Shell para Plasma 5
+X-KDE-PluginInfo-Author=Uri Herrera
+X-KDE-PluginInfo-Email=uri_herrera@nitrux.in
+X-KDE-PluginInfo-Name=Plasma-Light
+X-KDE-PluginInfo-Version=0.5.2.1
+X-KDE-PluginInfo-Website=http://nitrux.in
+X-KDE-PluginInfo-Category=Plasma Theme
+X-KDE-PluginInfo-Depends=plasma-desktop
+X-KDE-PluginInfo-License=LGPL 3.0
+X-KDE-PluginInfo-EnabledByDefault=true
+X-Plasma-API=5.0
+
+[Wallpaper]
+defaultWallpaperTheme=wallpaper
+defaultFileSuffix=.png
+defaultWidth=2560
+defaultHeight=1600
