@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="31.999999"
-     inkscape:cx="9.5416575"
-     inkscape:cy="9.4840726"
+     inkscape:zoom="22.627416"
+     inkscape:cx="10.66424"
+     inkscape:cy="13.058439"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -40,7 +40,8 @@
      inkscape:window-x="-4"
      inkscape:window-y="29"
      inkscape:window-maximized="1"
-     inkscape:showpageshadow="false">
+     inkscape:showpageshadow="false"
+     showguides="false">
     <inkscape:grid
        type="xygrid"
        id="grid4132" />
@@ -94,11 +95,21 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-326,-534.3622)">
-    <path
-       style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.56000167;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 3,3 0,1 0,2 0,1 2,0 a 9.9999924,9.9999924 0 0 1 10,10 l 0,2 1,0 3,0 0,-1 0,-1 A 13.999992,13.999992 0 0 0 5,3 L 3,3 Z m 1,1 1,0 a 12.999992,12.999992 0 0 1 13,13 l 0,1 -2,0 0,-1 A 10.999992,10.999992 0 0 0 5,6 L 4,6 4,4 Z m -1,4 0,1 0,2 0,1 2,0 a 4.9999919,4.9999919 0 0 1 5,5 l 0,2 1,0 2,0 1,0 0,-2 A 8.9999924,8.9999924 0 0 0 5,8 L 3,8 Z m 1,1 1,0 a 7.9999924,7.9999924 0 0 1 8,8 l 0,1 -2,0 0,-1 A 5.9999919,5.9999919 0 0 0 5,11 L 4,11 4,9 Z m 1,6 a 1.9999919,1.9999919 0 0 0 -2,2 1.9999919,1.9999919 0 0 0 2,2 1.9999919,1.9999919 0 0 0 2,-2 1.9999919,1.9999919 0 0 0 -2,-2 z"
-       transform="translate(326,534.3622)"
-       id="akregator"
-       inkscape:connector-curvature="0" />
+    <g
+       id="akregator">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4154"
+         transform="translate(326,534.3622)"
+         d="m 3,3 0,1 0,2 0,1 2,0 a 9.9999924,9.9999924 0 0 1 10,10 l 0,2 1,0 3,0 0,-1 0,-1 A 13.999992,13.999992 0 0 0 5,3 L 3,3 Z m 1,1 1,0 a 12.999992,12.999992 0 0 1 13,13 l 0,1 -2,0 0,-1 A 10.999992,10.999992 0 0 0 5,6 L 4,6 4,4 Z m -1,4 0,1 0,2 0,1 2,0 a 4.9999919,4.9999919 0 0 1 5,5 l 0,2 1,0 2,0 1,0 0,-2 A 8.9999924,8.9999924 0 0 0 5,8 L 3,8 Z m 1,1 1,0 a 7.9999924,7.9999924 0 0 1 8,8 l 0,1 -2,0 0,-1 A 5.9999919,5.9999919 0 0 0 5,11 L 4,11 4,9 Z m 1,6 a 1.9999919,1.9999919 0 0 0 -2,2 1.9999919,1.9999919 0 0 0 2,2 1.9999919,1.9999919 0 0 0 2,-2 1.9999919,1.9999919 0 0 0 -2,-2 z"
+         style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.56000167;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         y="534.36218"
+         x="326"
+         height="22"
+         width="22"
+         id="rect4148"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
   </g>
 </svg>
