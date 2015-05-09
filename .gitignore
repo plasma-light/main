@@ -1,0 +1,7 @@
+# Compiled source #
+###################
+*.directory
+*.bak
+*thumb.db
+/.project
+*.db
